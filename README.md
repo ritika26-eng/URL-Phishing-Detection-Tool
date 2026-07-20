@@ -1,9 +1,9 @@
-## 🛡️ PhishGuard URL Analyzer
+## 🛡️ URL Phishing Detection Tool
 A Python-based desktop application that detects potentially malicious URLs using heuristic analysis. The tool analyzes multiple URL characteristics, assigns a risk score, and classifies URLs as Safe, Suspicious, or High Risk to help users identify phishing attempts.
 
 ## 🌍 Real-World Problem
 Phishing websites are designed to steal sensitive information by mimicking legitimate websites. Many users cannot easily distinguish between a safe and a malicious URL.
-PhishGuard URL Analyzer helps users by automatically analyzing URLs using multiple security checks and providing a risk assessment before the website is visited.
+URL Phishing Detecton Tool helps users by automatically analyzing URLs using multiple security checks and providing a risk assessment before the website is visited.
 
 ## ✨ Features
 - HTTPS Validation
